@@ -29,13 +29,15 @@ This repo contains my **daily solutions** to problems from platforms like **Leet
 
 ```bash
 dsa-practice/
-├── Arrays/
-│   ├── two_sum.cpp
-│   └── best_time_to_buy_stock.py
-├── Strings/
-├── LinkedList/
-├── Trees/
-├── Graphs/
+├── DSA/
+│   ├── Strings/
+│   └── Arrays/ 
+├       └── pointer.cpp
+├── CSFundamentals
+│   └── OOP/ 
+├       └── class_object.cpp
+├── SystemDesign/
+│   └── cache_design.md
 ├── notes.md
 ├── README.md
 
